@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Car-Management-Application/static/css/main.ff14928f.css",
+    "main.js": "/Car-Management-Application/static/js/main.6e0f099b.js",
+    "static/media/car-image.jpeg": "/Car-Management-Application/static/media/car-image.97f169c1666da7326a15.jpeg",
+    "static/media/contact.jpeg": "/Car-Management-Application/static/media/contact.755b46c13374da6d8ae7.jpeg",
+    "index.html": "/Car-Management-Application/index.html",
+    "main.ff14928f.css.map": "/Car-Management-Application/static/css/main.ff14928f.css.map",
+    "main.6e0f099b.js.map": "/Car-Management-Application/static/js/main.6e0f099b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff14928f.css",
+    "static/js/main.6e0f099b.js"
+  ]
+}
